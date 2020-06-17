@@ -1,0 +1,2 @@
+database plugins/SortMerna/example/nogap.bacteria.fasta
+reads plugins/SortMerna/example/HMP_MOCK.v35.fasta

@@ -1,0 +1,2 @@
+Prefix plugins/SortMerna/example
+Plugin SortMerna inputfile parameters.txt outputfile aligned_otus.txt
