@@ -1,7 +1,9 @@
+# SortMerna
 # Language: C++
 # Input: TXT
 # Output: TXT
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: SortMeRNA 4.2
 
 PluMA plugin to run cluster and classify sequences using SortMerna (Kopylova et al, 2012).
 
